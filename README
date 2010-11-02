@@ -1,0 +1,2 @@
+XML Reader
+A simple application that get the feed of ReadWriteWeb I've made it for an Android Workshop, it doesn't use persistent storage (it only uses static data structures). When developing a real application, using a non-final static member in activity classes it's a bad idea, instead you should use application classes.
